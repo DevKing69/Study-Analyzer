@@ -17,6 +17,6 @@ CFO & Co-Founder- Aarush Sangai<br>
 
 <h2>Credits:</h2>
 Suhas - programming, promotion, SEO handler, website making, eBooks, (I'm CEO Bitch)<br>
-Aarush - cool images, music, quotes, web designing, promotion, books, (Free Guy) <br>
+Aarush - cool images, music, quotes, art director, promotion, books, (Free Guy) <br>
 <br>
 I would appreciate your contribution 
