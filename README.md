@@ -3,7 +3,7 @@
 <img src='https://cdn.freelogodesign.org/files/5ace27745fb04bee9697c1d49a01ed42/thumb/logo_200x200.png?v=0' height="30%" width="30%">
 This is an idea of creating a web-app with functionality to analyze your studies, it offers study music, quotes, book & ebooks, free IQ test.
 
-<h1>About Us</h1>
+<h2>About Us</h2>
 Attention all students, procrastinators, and anyone in between! We are the masterminds behind this one-of-a-kind study analyzer website. And we're here to turn your study sessions into a wild and entertaining ride.
 
 Our mission is to revolutionize the way you study. We believe that studying should be an enjoyable experience, not a chore. That's why we've combined books, music, and knowledge into one handy web-app.
