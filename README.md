@@ -1,6 +1,6 @@
 <h1>Zoun</h1>
 <h6>Analyze Your Study Engagingly</h6>
-<img src='https://i.imgur.com/FqA1gr9.png' height="30%" width="30%">
+<img src='https://media.licdn.com/dms/image/C4D22AQHj2dJIgjna9A/feedshare-shrink_800/0/1676739273157?e=1679529600&v=beta&t=vUXUb6TugTjfB17_LvIKdrEJ3l9FK5X1r5joT0qY5Dc' height="30%" width="30%">
 <p>This is an idea of creating a web-app with functionality to analyze your studies, it offers study music, quotes, book & ebooks, free IQ test.</p>
 <h2>About Us</h2>
 Attention all students, procrastinators, and anyone in between! We are the masterminds behind this one-of-a-kind study analyzer website. And we're here to turn your study sessions into a wild and entertaining ride.
